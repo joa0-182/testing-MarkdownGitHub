@@ -3,7 +3,7 @@
 ## Como fazer um pudim de leite condensado, rápido e simples!
 
 <p align="center">
-<img src="https://s2.glbimg.com/CUbNzBegJiuo3USQLJSczV77-Bk=/0x0:1800x1400/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/t/2/dpV1FkS4WByGHfml8S1w/pudim.jpg" align="center" width="300">
+<img src="https://s2.glbimg.com/CUbNzBegJiuo3USQLJSczV77-Bk=/0x0:1800x1400/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/t/2/dpV1FkS4WByGHfml8S1w/pudim.jpg" width="300">
 </p>
 
 ### Ingredientes: (para o pudim)
